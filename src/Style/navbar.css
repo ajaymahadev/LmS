@@ -1,0 +1,24 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(44, 29, 29);
+   padding: 10px 64px;
+   position: sticky !important;
+   top: 0px;
+}
+.links li{
+    display: inline-block;
+    margin: 0px 15px;
+    
+}
+.links a{
+    text-decoration: double;
+    color: white;
+    font-size:18px ;
+}
+.navbar img{
+    height: 80px;
+    width: 50px;
+    z-index: 1;
+}

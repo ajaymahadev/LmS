@@ -1,0 +1,38 @@
+.books{
+    display:flex;
+    margin: 20px;
+    border: 1px solid black;
+    height: 900px;
+    width: 1150px;
+    border-radius: 10px;
+    margin-left: 90px;
+    box-shadow: 5px 5px 5px black;
+    background-color: white;
+    justify-content: center;
+}
+.details{
+    padding: 25px;
+    margin-left: 20px;
+    margin-top:250px ;
+    
+}
+.books img{
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 250px;
+    height: 450px;
+    width: 585px;
+}
+.BookList{
+   
+   background-color: #636564;
+    height: 10000vh;
+    width:100vw;
+}
+.details button{
+    color: chocolate;
+    /* display: flex; */
+    border: 3.5px solid goldenrod;
+    border-radius: 2px;
+    height: 4.258vh;
+}
